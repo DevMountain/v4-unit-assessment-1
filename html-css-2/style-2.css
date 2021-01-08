@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: rgb(103, 248, 217);
+    height: 10vh;
+}
+h2{
+    margin: 0 20px 0 20px;
+}
+.border{
+    border: dashed 1px black;
+    box-sizing: border-box;
+    margin: 0px 20px 20px 20px;
+}
+.purple{
+    width: 225px;
+    height: 100px;
+    background-color:#7c00b5;
+    display: inline-block;
+    border: solid 2px red;
+    margin: 20px 20px 20px 20px;
+}    
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    box-shadow: 5px 10px 5px #4b4b4b;
+    display: inline-block;
+    border: solid 2px black;
+    margin: 20px 20px 20px 0px;
+}
+.pink{
+    background-color: palevioletred;
+    height: 200px;
+    width: 225px;
+    display: inline-block;
+    border: solid 2px black;
+    margin: 20px 20px 20px 0px
+}
+.circle{
+    display: block;
+}
+.coal{
+    height: 30px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.up{
+    padding: 5px;
+}
+.down{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding: 10px;
+}
+.top{
+    height: 100px;
+    width: 100px;
+    border: solid 2px black;
+    border-radius: 50%;
+    margin: 10px 0 0 60px;
+}
+.middle{
+    height: 150px;
+    width: 150px;
+    border: solid 2px black;
+    border-radius: 50%;
+    margin: 0 0 0 35px;
+}
+.bottom{
+    height: 200px;
+    width: 200px;
+    border: solid 2px black;
+    border-radius: 50%;
+    margin: 0 0 10px 10px; 
+}
+.yellow-square{
+    background-color: palegoldenrod;
+    height: 200px;
+    width: 225px;
+    display: inline-block;
+    border: solid 2px black;
+    margin: 10px;
+}
+.green-circle{
+    background-color: green;
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+.red-square{
+    background-color: rgb(175, 79, 98);
+    height: 125px;
+    width: 125px;
+    margin: 20px auto;
+}
+.fish{
+    text-align: center;
+    color: white;
+}
+.blue-circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.goldfish{
+    height: 30px;
+    width: auto;
+    padding: 30px;
+}
